@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/phpinfo",
+    "name": "laravel-admin-ext/phpinforj",
     "description": "哥们的第一个扩展555",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
