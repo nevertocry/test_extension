@@ -1,14 +1,14 @@
 {
-    "name": "rui_jing1217/phpinfo",
-    "description": "哥们的第一个扩展555",
+    "name": "nevertocry/phpinfo",
+    "description": "测试",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
     "homepage": "https://github.com/laravel-admin-ext/phpinfo",
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "Damon",
+            "email": "516066509@qq.com"
         }
     ],
     "require": {
